@@ -51,6 +51,7 @@ namespace TaskManagementAPI.Controllers
         public async Task<IActionResult> Update(int id, [FromBody] TaskDto dto)
         {
             var user = GetCurrentUser();
+            dto.UserId = user.Id;
             if (user == null) return Unauthorized();
 
             if (id != dto.Id) return BadRequest("ID mismatch");
