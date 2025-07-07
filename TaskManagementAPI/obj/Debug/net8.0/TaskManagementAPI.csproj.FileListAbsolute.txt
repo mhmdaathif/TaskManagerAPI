@@ -1,0 +1,210 @@
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.staticwebassets.endpoints.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.exe
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.deps.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.runtimeconfig.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.dll
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.pdb
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.csproj.AssemblyReference.cache
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.AssemblyInfoInputs.cache
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.AssemblyInfo.cs
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\scopedcss\bundle\TaskManagementAPI.styles.css
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagementAPI.props
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagementAPI.props
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagementAPI.props
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskMana.0D8D9FF3.Up2Date
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.dll
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\refint\TaskManagementAPI.dll
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.pdb
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.genruntimeconfig.cache
+C:\Users\mohammed.aathif\OneDrive - Riskonnect\Desktop\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\TaskManagementAPI\obj\Debug\net8.0\ref\TaskManagementAPI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\appsettings.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.staticwebassets.endpoints.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.exe
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.deps.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.runtimeconfig.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\TaskManagementAPI.pdb
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Humanizer.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.csproj.AssemblyReference.cache
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.AssemblyInfoInputs.cache
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.AssemblyInfo.cs
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.csproj.CoreCompileInputs.cache
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\scopedcss\bundle\TaskManagementAPI.styles.css
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagementAPI.props
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagementAPI.props
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagementAPI.props
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskMana.0D8D9FF3.Up2Date
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\refint\TaskManagementAPI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.pdb
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\TaskManagementAPI.genruntimeconfig.cache
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\ref\TaskManagementAPI.dll
+C:\TaskManagementApp\TaskManagerAPI\TaskManagementAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

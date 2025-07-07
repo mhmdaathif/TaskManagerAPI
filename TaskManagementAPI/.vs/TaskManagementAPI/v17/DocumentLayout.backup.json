@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|c:\\users\\mohammed.aathif\\onedrive - riskonnect\\desktop\\taskmanagementapp\\taskmanagerapi\\taskmanagementapi\\taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|c:\\users\\mohammed.aathif\\onedrive - riskonnect\\desktop\\taskmanagementapp\\taskmanagerapi\\taskmanagementapi\\taskmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|c:\\users\\mohammed.aathif\\onedrive - riskonnect\\desktop\\taskmanagementapp\\taskmanagerapi\\taskmanagementapi\\taskmanagementapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|c:\\users\\mohammed.aathif\\onedrive - riskonnect\\desktop\\taskmanagementapp\\taskmanagerapi\\taskmanagementapi\\taskmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|c:\\users\\mohammed.aathif\\onedrive - riskonnect\\desktop\\taskmanagementapp\\taskmanagerapi\\taskmanagementapi\\taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D4E647A-679E-4E2F-8E47-528255637139}|TaskManagementAPI\\TaskManagementAPI.csproj|solutionrelative:taskmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\Program.cs",
+              "RelativeToolTip": "TaskManagementAPI\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:19:41.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\appsettings.json",
+              "RelativeToolTip": "TaskManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T14:09:49.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskManagementAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\appsettings.Development.json",
+              "RelativeToolTip": "TaskManagementAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T14:09:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagementAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagementAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:06:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mohammed.aathif\\OneDrive - Riskonnect\\Desktop\\TaskManagementApp\\TaskManagerAPI\\TaskManagementAPI\\TaskManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:05:57.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
